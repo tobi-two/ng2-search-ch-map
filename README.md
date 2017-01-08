@@ -1,0 +1,1 @@
+# ng2-search-ch-map
